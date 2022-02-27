@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Prince of Wales, concerning the landing of his army in the Isle of Loving-land, within the county of Suffolk, and his propositions to all Englishmen, concerning his engagement for King, city, &amp; kingdom against the army, &amp; to fight for their liberties, freedom &amp; priviledges. Likevvise, the further proceedings of the Royall Navie, under his Highness the D. of York, and the declaration of the seamen in the Isle of VVight and Portsmouth, concerning the King [sic] Majesty and the Fleet Royall. 1648.</title>
+            <author>Burdet, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77837</idno>
+            <idno type="STC">Wing B5619</idno>
+            <idno type="STC">Thomason E456_2</idno>
+            <idno type="STC">ESTC R205036</idno>
+            <idno type="EEBO-CITATION">99864480</idno>
+            <idno type="PROQUEST">99864480</idno>
+            <idno type="VID">162035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162035)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Prince of Wales, concerning the landing of his army in the Isle of Loving-land, within the county of Suffolk, and his propositions to all Englishmen, concerning his engagement for King, city, &amp; kingdom against the army, &amp; to fight for their liberties, freedom &amp; priviledges. Likevvise, the further proceedings of the Royall Navie, under his Highness the D. of York, and the declaration of the seamen in the Isle of VVight and Portsmouth, concerning the King [sic] Majesty and the Fleet Royall. 1648.</title>
+                  <author>Burdet, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.4: John Burdet.</note>
+                  <note>Annotation on Thomason copy: "July 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Imprint from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Suffolk (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162035:1" rendition="simple:additions"/>
+            <p>THE RESOLUTION OF THE Prince of WALES, concer<g ref="char:EOLhyphen"/>ning the landing of his Army in the Iſle of <hi>Loving-land,</hi> within the Coun<g ref="char:EOLhyphen"/>ty of <hi>Suff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lk,</hi> And his Propoſitions to all <hi>Eng<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhmen,</hi> concerning his En<g ref="char:EOLhyphen"/>gagement for <hi>King, City,</hi> &amp; <hi>Kingdom</hi> againſt the Army, &amp; to fight for their Liberties, Freedom &amp; Priviledges.</p>
+            <p>Likevviſe, the further proceedings of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Royall Navie, under his Highneſs the D. o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> and the Declaration of the Seamen in the Iſle of <hi>VVight</hi> and <hi>Portſmouth,</hi> concerning the King Majeſty and the Fleet Royall. 1648.</p>
+            <figure>
+               <figDesc>woodcut, title figure</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:162035:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:162035:2"/>
+            <head>Propoſitions from his Highneſſe the Prince of <hi>Wales,</hi> agreed upon at a Ge<g ref="char:EOLhyphen"/>nerall Councell aboard the Royall Navie, by the Lord <hi>Culpepper,</hi> the Lord <hi>Ruthin,</hi> the Lord <hi>Gerrard,</hi> and Sir <hi>John Bartley.</hi>
+            </head>
+            <p>
+               <hi>Honoured Sir,</hi>
+            </p>
+            <p>HAving received information of the Prince of <hi>Wales</hi> intentions and Reſolu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to land at <hi>Yar<g ref="char:EOLhyphen"/>mouth,</hi> with his forces, The Ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>Norw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch,</hi> the Town of <hi>Attlebury,</hi> and other parts adjacent, re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olved to put themſelves into a poſture to receive his High<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe, &amp; to entertain him with loyalty and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he would be pleaſed to entruſt his perſon in their hands, &amp; to land on<g ref="char:EOLhyphen"/>ly ſuch a party that did conſiſt of <hi>Engliſh,</hi> bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would not aſſent to the coming in of any Forreigners, conc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iving the conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quences to be very dangerous; the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſol<g ref="char:EOLhyphen"/>ved not to admit of any invaſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n by ſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngers: Where<g ref="char:EOLhyphen"/>upon, his Highneſſe diſtruſting the event <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his Deſign,
+<pb n="2" facs="tcp:162035:3"/> called a generall Councell, aboard the Royall N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vie, where was preſent, his Highn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke of <hi>York,</hi> Prince <hi>Rup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt,</hi> Prince <hi>Maurice,</hi> the Lord <hi>Culpepper,</hi> the Lord <hi>Gerrard,</hi> the Lord <hi>Willoughby</hi> of <hi>Parham,</hi> the Lord <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermin,</hi> the Lord <hi>Ruthin,</hi> Sir <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Bartley,</hi> and Col. <hi>Bain<g ref="char:EOLhyphen"/>field;</hi> and after ſome conſultation, in relation to their Lan<g ref="char:EOLhyphen"/>ding, and ſerio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly of weighing, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d conſidering ſeverall paticulars, which might prove very prejudicial and dan<g ref="char:EOLhyphen"/>gerous, to the Kings Cauſe, they unanimouſly reſolved to get what Proviſions they could aboard, and to hoyſt ſayle to flote upon the <hi>Neptune</hi> Seas towards the Downs, there to caſt Anchor for the preſent, and to ſend an Invi<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion to the <hi>Kentiſhmen,</hi> to invite them to their aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>But we fear, that they have ſtill an Eagles eye upon this County, and in regard <hi>Yarmouth</hi> lies ſo point blank for the Revolted Ships to come unto, it is feared, That if they ſhould poſſeſſe themſelves of the ſaid, That ſome whiſperings, were amongſt them, in Relation to the ſaid Deſign, and we conceive it probable, that had not <hi>Loving<g ref="char:EOLhyphen"/>land</hi> been ſecured by Col. <hi>Scroop,</hi> and a Regiment of the County foot, they had poſſeſſed themſelves of that place ere this; for our Intelligencer ſaith, That it was the Reſo<g ref="char:EOLhyphen"/>lution, bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of the Prince, the Duke, the Lord <hi>Culpepper,</hi> the Lord <hi>Gerrard,</hi> and the reſt of the <hi>Engliſh</hi> Gallants, at<g ref="char:EOLhyphen"/>tending his Highneſſe; to make a ſhew at <hi>Yarmouth,</hi> and then to uſe their endeavours for the ſecuring of the Iſland of <hi>Lovingland,</hi> but by providence, it is now prevented; That which is moſt prevalent, and doth induce us, to give credence to the ſaid Report; is, Becauſe the diſpoſiti<g ref="char:EOLhyphen"/>on and affection of the Inhabitants, are weaned from the
+<pb n="3" facs="tcp:162035:3"/> Parliament, and linked firme to the Royaliſts; for I can<g ref="char:EOLhyphen"/>not hear, that ſince the begining of theſe ſad times, of ma<g ref="char:EOLhyphen"/>ny Volunteers, that hath been ſet forth of that Iſland for the Parliaments ſervice. And for your further ſatisfacti<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> touching the deſcription of the ſaid Iſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, I ſhall here give you a brief account thereof, <hi>viZ.</hi> The <hi>Peninſula</hi> of <hi>Lovingland,</hi> in the County of <hi>Suffolk,</hi> in Longitude ex<g ref="char:EOLhyphen"/>tends it ſelfe 7. miles, in Latitude 4. It contains 16. Pa<g ref="char:EOLhyphen"/>riſhes, abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding with all things requirable either by ne<g ref="char:EOLhyphen"/>ceſſity or delight, by way of ſuſtentation or recreation: Its bleſt with a healthfull Ayre, ſcituated for a generall accomodation of Trade, having the Sea bordering upon a fourth part of it; the other parts being begirt with the great Rivers of <hi>Yare</hi> and <hi>Waurney,</hi> by which the Country Commodities are brought into it, and from thence tranſ<g ref="char:EOLhyphen"/>ported to all tranſmarine parts: The whole <hi>Peninſula</hi> is ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed into one intire Hill, defended tow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds the Sea; with Cliffs and Sands, and on all parts by Land ſurroun<g ref="char:EOLhyphen"/>ded with a ſpecious levell of low grounds, amidſt which levels runs the forenamed Rivers, diſcharging themſelves into the Sea, through the ſaid Iſland; So that it is invinſi<g ref="char:EOLhyphen"/>ble by land, four paſſages excepted, and one by Sea, called <hi>Newton</hi> Gap; It hath in former times been called by the name of <hi>Low-England;</hi> being as conſiderable a place for health, fortility, ſtrength, and pleaſure, as any that I know of within his Majeſties Realms and Dominions; And if it ſhould be once loſt, it will not be vaſt ſums and multi<g ref="char:EOLhyphen"/>tudes of lives that will regain it. It is ſaid that Prince <hi>Rupert</hi> had a great deſire to l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd there, and had he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected it, it would have hazarded the loſſe of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he whole King<g ref="char:EOLhyphen"/>dom, For,</p>
+            <lg>
+               <l>Sol doth no ſooner riſe from's Baſtern bed,</l>
+               <l>but by Aurora, is firſt welcomed.</l>
+               <pb n="4" facs="tcp:162035:4"/>
+               <l>In Lovinglands faire Iſle, The only place</l>
+               <l>that Art and Nature by their ſoft embrace</l>
+               <l>Bleſt have, with profit and delight: A ſoyle</l>
+               <l>proud Forraigners, with bloodied ſoul would toyle:</l>
+               <l>To maſter Engliſhmen, muſt thankfull be,</l>
+               <l>to him that lets you Peace and perill ſee.</l>
+            </lg>
+            <p>The Romans having formerly gained this place, and tranſported their Colonies, bridled the whole Eaſt of <hi>England</hi> by it, and brought the people under ſubjection. Thus having faithfully imparted, the proceedings of the Prince, and their Reſolution to have poſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed themſelves of this Iſland, I remain,</p>
+            <closer>
+               <signed>Your moſt aſſured, and obliged Friend, JOHN BURDET.</signed>
+               <dateline>
+                  <hi>Norwich</hi>
+                  <date>
+                     <hi>Iuly</hi> 29: 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="propositions">
+            <head>Propoſitions from his Highneſſe the Princee of <hi>Wales,</hi> to be publiſhed to the Kingdom of <hi>England.</hi>
+            </head>
+            <p n="1">1 That his Highneſſe doth declare that the Reformation of Re<g ref="char:EOLhyphen"/>ligion, ſhall be as it was agreed on with the Scots <hi>Dec.</hi> 26 laſt in the Iſle of <hi>Wight.</hi>
+            </p>
+            <p n="2">2 To reſcue his Maj. from His impriſonment, that he may fit with the Parl. and enjoy his rights.</p>
+            <p n="3">3 That the two Houſes of Parl. may be reſtored to their freedom.</p>
+            <p n="4">4 That the Kingdom may be eaſed of the Exciſe.</p>
+            <p n="5">5 That the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my of Sectaries may be disbanded.</p>
+            <p n="6">
+               <pb facs="tcp:162035:4"/>6 That all taxes and ceſſements may be taken off.</p>
+            <p n="7">7 That the narrow ſeas may be protected, for the carrying on of a free trade in the paſſage of Merchants ſhips.</p>
+            <p n="8">8 That the City of London may enjoy their Priviledges and Rights.</p>
+            <div type="letter">
+               <head>From <hi>Dover</hi> Caſtle, July 29. 1648.</head>
+               <p>
+                  <hi>Sir</hi>
+               </p>
+               <p>WEE have received Intelligence, of the incredi<g ref="char:EOLhyphen"/>ble newes of the <hi>The Conſtant Warwick;</hi> Could it h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve been immagined, that two names moſt conſiſtent with change, ſhould have revolted; but it was carryed a<g ref="char:EOLhyphen"/>way by Captain <hi>Batten,</hi> that ſomthing, he is able to draw away <hi>Mahomet,</hi> and his Iron Cheſt from the <hi>Loadſtone;</hi> The going away of this Ship ſeemes ominous to many; who therefore expect ſome notable buſineſſe; but what will the Revolted Ships do? land an Army, where is it? not the <hi>London</hi> March<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts, that's dangerous at this time, <hi>Londoners</hi> eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct nor to be hindered in Trade, touch their Copyhold, and they will move otherwaies.</p>
+               <p>By our Intelligence from the <hi>Weſt,</hi> it is advertiſed. That there are ſeverall Ships lies in the Harbours at <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> and in the Iſle of <hi>Wyght,</hi> and that ſome of the Sea<g ref="char:EOLhyphen"/>men. begins to have revolting Language, and cryes out, <hi>Hey for King Charles and his Royall Ships,</hi> and ſome of the Saylors which lay in <hi>Portſmouth</hi> Harbour, openly decla<g ref="char:EOLhyphen"/>red themſelves in the Town, in the like ſpeeches; but ſome of them were ſoone ſilenced, and comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tted to ſafe Cuſtody.</p>
+               <pb n="6" facs="tcp:162035:5"/>
+               <p>The Earl of <hi>Warwick</hi> hath 16. gallant Ships ready to put to Sea, victualled, and provided with all neceſſaries whatſoever: The revolting and running away of the Sea<g ref="char:EOLhyphen"/>men, after they have been lifted, hath much retarded the work in hand, His Lordſhip leaves no meanes u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſſayed, to advance and further the Cauſe, and encourage the Marreigners in this honorable Engagement, for the re<g ref="char:EOLhyphen"/>ducing of revolted Ships, whoſe deſignes may be v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry deſtructive, both to King and Kingdom, if not timely prevented.</p>
+               <p>
+                  <hi>Walmer</hi> Caſtle is ready to attend the motion of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Prince, <hi>Deale</hi> is exce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding inſolent and ſtubborn, and does execu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion upon our men, the walles are thick, and Can<g ref="char:EOLhyphen"/>non-proofe, and have great advantage upon our men; but notwit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding, their opportunities, and advantages, our men are reſolute, and Col. <hi>Rich</hi> deports himſelfe with great gallantry, Major <hi>Husbands</hi> is likewiſe very forward and active, and upon Fryd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y laſt, the beſieged made a ſal<g ref="char:EOLhyphen"/>lcy, where he charged them with his own Troop, (who had then the Guard) diſputed the buſineſſe, put them to a retreat, and purſued them to the very Caſtle Gates.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dover</hi>
+                     <date>
+                        <hi>July</hi> 29. 1648. 4. <hi>in the morning.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
